@@ -18,7 +18,7 @@ Conduct in-depth data profiling with Alteryx to gain comprehensive insights into
 ## 2. Dynamic Dimensional Modeling:
 Create a dynamic dimensional model using ER/Studio to facilitate efficient data analysis, enabling exploration of food inspection data across various dimensions and hierarchies.
 
-![NYC_Food_inspections_DimensionalModel](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/60314561-367b-4af1-94c6-2543a23f9abe)
+![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/60314561-367b-4af1-94c6-2543a23f9abe)
 
 ## 3. Data Integration:
 Designed and treamlined data integration with Talend and Alteryx, merging data from multiple sources for robust and reliable profiling.

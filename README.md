@@ -7,7 +7,9 @@
 
 • Utilized Alteryx to execute data profiling, transformations employing regular expressions and parsing techniques, and data-cleaning operations
 
-• Created an extensive collection of 100+ reports and dashboards using Tableau and Power BI to highlight inspections, violations, and severity over time
+• Created an extensive collection of 10+ reports and dashboards using Tableau and Power BI to highlight inspections, violations, and severity over time
+
+• Dataset : https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data
 
 ### DESCRIPTION:
 ## 1. Data Profiling:

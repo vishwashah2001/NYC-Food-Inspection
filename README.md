@@ -32,8 +32,8 @@ Designed and treamlined data integration with Talend and Alteryx, merging data f
 Develop interactive dashboards using Tableau to visualize key insights, answering critical business questions such as inspection trends, pass vs. fail rates, and types of violations.
 Below are the some visuals in Tableau:
 <img width="515" alt="Screenshot 2025-02-26 at 9 36 12 AM" src="https://github.com/user-attachments/assets/947f292d-4672-4d82-8858-c8cc28b7d47a" /> 
+<img width="422" alt="image" src="https://github.com/user-attachments/assets/1b3f1432-7e68-48e6-afa5-15a0d56258d1" />
 <img width="445" alt="Screenshot 2025-02-26 at 9 36 37 AM" src="https://github.com/user-attachments/assets/8b17fbc3-ae2b-496c-b3f3-14a357966d68" />
-
 <img width="328" alt="Screenshot 2025-02-26 at 9 32 56 AM" src="https://github.com/user-attachments/assets/f1f2d419-7039-4204-ad7d-7a16c6b7bcee" />
 <img width="608" alt="Screenshot 2025-02-26 at 9 32 09 AM" src="https://github.com/user-attachments/assets/da1b7a68-2e77-4b9f-8f66-a74840cdaa92" />
 <img width="560" alt="Screenshot 2025-02-26 at 9 34 48 AM" src="https://github.com/user-attachments/assets/92f46a55-e8c7-46d8-bace-b7cdd310758c" />

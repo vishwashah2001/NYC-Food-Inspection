@@ -14,29 +14,30 @@
 ### DESCRIPTION:
 ## 1. Data Profiling:
 Conduct in-depth data profiling with Alteryx to gain comprehensive insights into the food inspection data, ensuring data quality and accuracy for subsequent analysis.
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/88c8bbab-6bb1-423f-afe6-ae6918c8f9da)
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/7b7d1df8-b40f-461f-b5c9-ea5b24e94b77)
+<img width="966" alt="Screenshot 2025-02-26 at 9 37 25 AM" src="https://github.com/user-attachments/assets/ede43089-9fef-4678-bfe7-3ef3e35f7c1d" />
+<img width="972" alt="Screenshot 2025-02-26 at 9 37 57 AM" src="https://github.com/user-attachments/assets/6cf2c99f-b449-4f38-9aea-bc233eb843f6" />
 
 ## 2. Dynamic Dimensional Modeling:
 Create a dynamic dimensional model using ER/Studio to facilitate efficient data analysis, enabling exploration of food inspection data across various dimensions and hierarchies.
 
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/60314561-367b-4af1-94c6-2543a23f9abe)
+<img width="695" alt="Screenshot 2025-02-26 at 9 38 45 AM" src="https://github.com/user-attachments/assets/172a61e5-396a-4ab3-ad2f-5e9847c885da" />
 
 ## 3. Data Integration:
 Designed and treamlined data integration with Talend and Alteryx, merging data from multiple sources for robust and reliable profiling.
 
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/66fc6b28-12c4-44d2-b98d-9fb2f49314f9)
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/d5be097e-b0e8-489d-969a-df58c19355dc)
+<img width="627" alt="Screenshot 2025-02-26 at 9 39 15 AM" src="https://github.com/user-attachments/assets/82d1359f-4f5d-4b6a-88a5-36e25c691e85" />
+<img width="1109" alt="Screenshot 2025-02-26 at 9 39 37 AM" src="https://github.com/user-attachments/assets/bfd063eb-d72c-4c3d-b471-e4c25ae070a3" />
 
 ## 4. Interactive Dashboards:
-Develop interactive dashboards using Power BI and Tableau to visualize key insights, answering critical business questions such as inspection trends, pass vs. fail rates, and types of violations.
-Below are the some visuals in PowerBi AND Tableau:
+Develop interactive dashboards using Tableau to visualize key insights, answering critical business questions such as inspection trends, pass vs. fail rates, and types of violations.
+Below are the some visuals in Tableau:
+<img width="515" alt="Screenshot 2025-02-26 at 9 36 12 AM" src="https://github.com/user-attachments/assets/947f292d-4672-4d82-8858-c8cc28b7d47a" /> 
+<img width="445" alt="Screenshot 2025-02-26 at 9 36 37 AM" src="https://github.com/user-attachments/assets/8b17fbc3-ae2b-496c-b3f3-14a357966d68" />
 
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/cbf6e231-22ee-4796-9bf7-60debeeaeab5)
-
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/64c16d53-c0a6-4abf-b9d1-eb4a4787bc81)
-![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/ea3f6d2f-3d45-4ecf-bbc7-b312f2ea6ef2)
-<img width="611" alt="Screenshot 2025-02-26 at 9 31 02 AM" src="https://github.com/user-attachments/assets/927c4b06-9b15-46da-934f-e89baffdc19b" />
+<img width="328" alt="Screenshot 2025-02-26 at 9 32 56 AM" src="https://github.com/user-attachments/assets/f1f2d419-7039-4204-ad7d-7a16c6b7bcee" />
+<img width="560" alt="Screenshot 2025-02-26 at 9 34 48 AM" src="https://github.com/user-attachments/assets/92f46a55-e8c7-46d8-bace-b7cdd310758c" />
+<img width="608" alt="Screenshot 2025-02-26 at 9 32 09 AM" src="https://github.com/user-attachments/assets/da1b7a68-2e77-4b9f-8f66-a74840cdaa92" />
+<img width="1077" alt="Screenshot 2025-02-26 at 9 34 11 AM" src="https://github.com/user-attachments/assets/a292ae38-2712-4b2a-91f0-2756abe7803f" />
 
 ### Conclusion
 Leveraging dimensional modeling, data profiling, and data visualization helped address key business questions:-
@@ -47,7 +48,7 @@ Leveraging dimensional modeling, data profiling, and data visualization helped a
 4. Food establishments based on attributes such as business type, cuisine, and city boroughs.
 
    
-Skills and tools: SQL, Alteryx, PowerBi, Python, ER/Studio, Tableau
+Skills and tools: SQL, Alteryx, ER Studio/ Navicat, Tableau
 
 Concepts: EDA, Data Cleansing, Data Manupulation, Dealing with outliers and missing values, Data Modeling, Data Integration, ETL, Dashboard Creation, Data visualization, Data Analysis
 

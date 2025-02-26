@@ -36,6 +36,7 @@ Below are the some visuals in PowerBi AND Tableau:
 
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/64c16d53-c0a6-4abf-b9d1-eb4a4787bc81)
 ![image](https://github.com/simran2097/NYC_Food_Inspection_DataAnalysis/assets/47267975/ea3f6d2f-3d45-4ecf-bbc7-b312f2ea6ef2)
+<img width="611" alt="Screenshot 2025-02-26 at 9 31 02 AM" src="https://github.com/user-attachments/assets/927c4b06-9b15-46da-934f-e89baffdc19b" />
 
 ### Conclusion
 Leveraging dimensional modeling, data profiling, and data visualization helped address key business questions:-

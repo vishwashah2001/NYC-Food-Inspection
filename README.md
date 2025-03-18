@@ -7,7 +7,7 @@
 
 • Utilized Alteryx to execute data profiling, transformations employing regular expressions and parsing techniques, and data-cleaning operations
 
-• Created an extensive collection of 10+ reports and dashboards using Tableau and Power BI to highlight inspections, violations, and severity over time
+• Created an extensive collection of 10+ reports and dashboards using Tableau to highlight inspections, violations, and severity over time
 
 • Dataset : https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data
 
@@ -18,12 +18,12 @@ Conduct in-depth data profiling with Alteryx to gain comprehensive insights into
 <img width="972" alt="Screenshot 2025-02-26 at 9 37 57 AM" src="https://github.com/user-attachments/assets/6cf2c99f-b449-4f38-9aea-bc233eb843f6" />
 
 ## 2. Dynamic Dimensional Modeling:
-Create a dynamic dimensional model using ER/Studio to facilitate efficient data analysis, enabling exploration of food inspection data across various dimensions and hierarchies.
+Create a dynamic dimensional model using Navicat to facilitate efficient data analysis, enabling exploration of food inspection data across various dimensions and hierarchies.
 
 <img width="695" alt="Screenshot 2025-02-26 at 9 38 45 AM" src="https://github.com/user-attachments/assets/172a61e5-396a-4ab3-ad2f-5e9847c885da" />
 
 ## 3. Data Integration:
-Designed and treamlined data integration with Talend and Alteryx, merging data from multiple sources for robust and reliable profiling.
+Designed and treamlined data integration with Alteryx, merging data from multiple sources for robust and reliable profiling.
 
 <img width="627" alt="Screenshot 2025-02-26 at 9 39 15 AM" src="https://github.com/user-attachments/assets/82d1359f-4f5d-4b6a-88a5-36e25c691e85" />
 <img width="1109" alt="Screenshot 2025-02-26 at 9 39 37 AM" src="https://github.com/user-attachments/assets/bfd063eb-d72c-4c3d-b471-e4c25ae070a3" />

@@ -36,6 +36,13 @@ Below are the some visuals in Tableau:
 <img width="560" alt="Screenshot 2025-02-26 at 9 34 48 AM" src="https://github.com/user-attachments/assets/92f46a55-e8c7-46d8-bace-b7cdd310758c" />
 <img width="1077" alt="Screenshot 2025-02-26 at 9 34 11 AM" src="https://github.com/user-attachments/assets/a292ae38-2712-4b2a-91f0-2756abe7803f" />
 
+## 5. Business Case study 
+1. What are the most common violation trends?
+2. Which Borough in NYC has the highest score in Inspection cared out by the Public Health officials?
+3. What are the inspection trends across different cuisine ?
+4. What was the effect of Covid on different establishments?
+5. How have Voilations trends changed over time?
+
 ### Conclusion
 Leveraging dimensional modeling, data profiling, and data visualization helped address key business questions:-
 

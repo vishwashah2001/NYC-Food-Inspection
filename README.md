@@ -43,7 +43,7 @@ Below are the some visuals in Tableau:
 4. What was the effect of Covid on different establishments?
 5. How have Voilations trends changed over time?
 
-### Conclusion
+## Conclusion
 Leveraging dimensional modeling, data profiling, and data visualization helped address key business questions:-
 
 1. Top ten most inspected and worst-performing establishments based on inspection outcomes over the last two full years
